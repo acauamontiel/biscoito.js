@@ -1,4 +1,16 @@
 biscoito.js
 ===========
 
-Small JS class to help manage cookies
+> Small JS class to help manage cookies
+
+
+Methods
+-------
+
+* add()
+* remove()
+* get()
+* contains()
+* clear()
+* key()
+* length()
